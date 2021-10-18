@@ -1,5 +1,5 @@
 The Webservice has the ability to publish the following message "Wecome to Docker World - by Vamsi Copesetty"
-This is published on the browswer URL - http://localhost:8080/
+This is published on the browser URL - http://localhost:8080/
 
 Hello World
 ===========
